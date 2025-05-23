@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/github.io/TechTunes/static/css/main.c6f06f9a.css",
-    "main.js": "/github.io/TechTunes/static/js/main.928f4d1e.js",
-    "index.html": "/github.io/TechTunes/index.html",
-    "main.c6f06f9a.css.map": "/github.io/TechTunes/static/css/main.c6f06f9a.css.map",
-    "main.928f4d1e.js.map": "/github.io/TechTunes/static/js/main.928f4d1e.js.map"
+    "main.css": "/TechTune/static/css/main.c6f06f9a.css",
+    "main.js": "/TechTune/static/js/main.928f4d1e.js",
+    "index.html": "/TechTune/index.html",
+    "main.c6f06f9a.css.map": "/TechTune/static/css/main.c6f06f9a.css.map",
+    "main.928f4d1e.js.map": "/TechTune/static/js/main.928f4d1e.js.map"
   },
   "entrypoints": [
     "static/css/main.c6f06f9a.css",
