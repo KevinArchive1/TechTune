@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/github.io/TechTunes/static/css/main.c6f06f9a.css",
-    "main.js": "/github.io/TechTunes/static/js/main.acf9c8d1.js",
+    "main.js": "/github.io/TechTunes/static/js/main.928f4d1e.js",
     "index.html": "/github.io/TechTunes/index.html",
     "main.c6f06f9a.css.map": "/github.io/TechTunes/static/css/main.c6f06f9a.css.map",
-    "main.acf9c8d1.js.map": "/github.io/TechTunes/static/js/main.acf9c8d1.js.map"
+    "main.928f4d1e.js.map": "/github.io/TechTunes/static/js/main.928f4d1e.js.map"
   },
   "entrypoints": [
     "static/css/main.c6f06f9a.css",
-    "static/js/main.acf9c8d1.js"
+    "static/js/main.928f4d1e.js"
   ]
 }
